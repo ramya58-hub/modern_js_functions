@@ -18,7 +18,7 @@ const multiply = (a, b) => {
 
 document.getElementById("declaration").textContent =
 
-    greet("Akhila");
+    greet("Ramya");
 
 document.getElementById("expression").textContent =
 
